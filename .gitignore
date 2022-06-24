@@ -1,2 +1,4 @@
 __pycache__/*
 db.sqlite3
+app/__pycache__/*
+last_days/__pycache__/*
